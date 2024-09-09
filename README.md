@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [syamsundar.me](syamsundar.me)
 
-- 📝 I regularly write articles on [devexpertshub.com](www.devexpertshub.com)
+- 📝 I regularly write articles on [devexpertshub.com](https://devexpertshub.com/)
 
 - 📫 How to reach me **syamgopu2001@gmail.com**
 
