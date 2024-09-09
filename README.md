@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syamsundar1&label=Profile%20views&color=0e75b6&style=flat" alt="syamsundar1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syamsundar1" alt="syamsundar1" /></a> </p>
-
 - 🔭 I’m currently working on [Ecom like Amazon/Flipkart](https://github.com/syamsundar1/ecom-backend)
 
 - 🌱 I’m currently learning **ReactJS and NextJS**
